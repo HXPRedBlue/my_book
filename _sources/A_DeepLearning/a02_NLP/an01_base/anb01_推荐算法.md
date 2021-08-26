@@ -4,7 +4,7 @@
  * @version: 
  * @Date: 2021-08-26 15:15:29
  * @LastEditors: hxp
- * @LastEditTime: 2021-08-26 17:41:31
+ * @LastEditTime: 2021-08-26 18:40:52
 -->
 
 # 推荐算法
@@ -67,6 +67,8 @@
 ![09](./anb00_pic/anb01_09.png)
 
 ## 2.4 多路召回融合排序
+![10](./anb00_pic/anb01_10.png)
+![11](./anb00_pic/anb01_11.png)
 # 相关资料
 * [黑马推荐系统课程 -B站](https://www.bilibili.com/video/BV1fZ4y1F7K1?from=search&seid=7523311500480459762): 2019年的课程
 * [推荐系统从入门到实践](https://www.bilibili.com/video/BV1Dz411B7wd?p=3&spm_id_from=pageDriver)
