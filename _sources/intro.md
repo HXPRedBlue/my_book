@@ -4,9 +4,9 @@
  * @version: 
  * @Date: 2021-08-26 18:50:33
  * @LastEditors: hxp
- * @LastEditTime: 2021-08-26 18:52:56
+ * @LastEditTime: 2021-08-26 18:55:27
 -->
-# Welcome to your HXP Book
+# Welcome to HXP Book
 
 This is a small sample book to give you a feel for how book content is
 structured.
