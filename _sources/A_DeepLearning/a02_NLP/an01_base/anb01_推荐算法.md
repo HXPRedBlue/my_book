@@ -4,7 +4,7 @@
  * @version: 
  * @Date: 2021-08-26 15:15:29
  * @LastEditors: hxp
- * @LastEditTime: 2021-08-26 18:40:52
+ * @LastEditTime: 2021-08-30 17:21:10
 -->
 
 # 推荐算法
@@ -50,7 +50,12 @@
 ## 2.2 CB(Content-based Recommendations)
 基于内容的推荐
 ![05](./anb00_pic/anb01_05.png)
-### 1 优缺点
+
+### 1 算法流程
+1. Item Representation: 特征提取
+2. Profile Learning: 计算用户特征向量
+3. Recommendation Generation: 推荐生成
+### 2 优缺点
 * 优点:
   * 不需要其他用户数据
   * 能给具有独特口味的用户推荐
@@ -67,9 +72,8 @@
 ![09](./anb00_pic/anb01_09.png)
 
 ## 2.4 多路召回融合排序
-![10](./anb00_pic/anb01_10.png)
-![11](./anb00_pic/anb01_11.png)
 # 相关资料
 * [黑马推荐系统课程 -B站](https://www.bilibili.com/video/BV1fZ4y1F7K1?from=search&seid=7523311500480459762): 2019年的课程
 * [推荐系统从入门到实践](https://www.bilibili.com/video/BV1Dz411B7wd?p=3&spm_id_from=pageDriver)
 * [推荐系统算法技术发展](https://www.bilibili.com/video/BV15r4y1F7ut?from=search&seid=18089353605278223009)
+* [CB召回](https://www.cnblogs.com/breezedeus/archive/2012/04/10/2440488.html)
