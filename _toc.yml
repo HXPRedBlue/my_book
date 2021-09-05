@@ -4,7 +4,6 @@
 format: jb-book
 root: intro
 chapters:
-- file: R机器人/R01_ROS/定点巡航.md
 - file: A_DeepLearning/a02_NLP/an01_base/anb01_推荐算法.md
   sections: 
   - file: C_Code_c01_Python/cp01_pandas.ipynb
