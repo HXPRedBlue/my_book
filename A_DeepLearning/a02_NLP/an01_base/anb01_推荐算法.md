@@ -4,7 +4,7 @@
  * @version: 
  * @Date: 2021-08-26 15:15:29
  * @LastEditors: hxp
- * @LastEditTime: 2021-08-30 17:21:10
+ * @LastEditTime: 2021-09-06 15:44:28
 -->
 
 # 推荐算法
@@ -71,7 +71,12 @@
 ![08](./anb00_pic/anb01_08.png)
 ![09](./anb00_pic/anb01_09.png)
 
-## 2.4 多路召回融合排序
+## 2.4 YouTubeDNN
+[YouTubeDNN](./anb00_paper/anb01_YouTubeDNN.pdf)
+![12](./anb00_pic/anb01_12.png)
+
+
+# 3 多路召回融合排序
 # 相关资料
 * [黑马推荐系统课程 -B站](https://www.bilibili.com/video/BV1fZ4y1F7K1?from=search&seid=7523311500480459762): 2019年的课程
 * [推荐系统从入门到实践](https://www.bilibili.com/video/BV1Dz411B7wd?p=3&spm_id_from=pageDriver)

@@ -3,7 +3,11 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: A_DeepLearning/a02_NLP/an01_base/anb01_推荐算法.md
-  sections: 
-  - file: C_Code_c01_Python/cp01_pandas.ipynb
+parts:
+  - caption: A_DeepLearning
+    chapters:
+      - file: A_DeepLearning/a00_base/ab01_动手学深度学习/abd01_数据操作.ipynb
+      - file: A_DeepLearning/a02_NLP/an01_base/anb01_推荐算法.md
+  - caption: C_Code
+    chapters:
+      - file: C_Code/c01_Python/cp01_pandas.ipynb
